@@ -1,4 +1,4 @@
-# Creating RootCA, client and server certificates tools
+# Creating RootCA, Client and Server certificates Tools
 By huy.do@cyberark.com
 This repo contains scripts to create the certificate for lab or learning purpose. All scripts are using openssl and run in linux environment.
 After running scripts, certificate and related files are written in ./certs folder.
