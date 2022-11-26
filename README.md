@@ -16,6 +16,9 @@ After running scripts, certificate and related files are written in ./certs fold
 
 ## Usage
 - Cloning this repo into your linux environment with openssl installed.
+```
+git clone https://github.com/huydd79/openssl-certgen/
+```
 - Reviewing certificate configuration files. Change the content to your related system
 - Running gen.all.cert.sh to generate the set of three ca, client, server certificates
 - Running gen.server.cert.sh and client.cert.sh to generate additional server or client certificates
